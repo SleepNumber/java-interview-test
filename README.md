@@ -13,8 +13,8 @@ Java problem to solve before interviews.
 ### Any Other IDE
 
 - Clone the repository.
-- Delete any .iml files or .idea folders if you IDE does not like them.
-- You may need to add junit to the classpath of the `direct-reports` project/module.
+- Delete any .iml files or .idea folders if your IDE does not like them.
+- You may need to add `junit` to the classpath of the `direct-reports` project/module.
 
 
 ## Solving The Test
