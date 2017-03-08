@@ -48,7 +48,7 @@ Jan Levinson
       |__ Toby Flenderson 
 ```
 
-- Add your code to the `PersonToPersonTreeNodeConverter#generateTree` method.
+- Add your code to the `PersonToPersonTreeNodeConverter`.`generateTree` method.
 - Run the junit test in `PersonToPersonTreeNodeConverterTest`.
 - Repeat until test passes.
 - Zip the project folder and email it to us.

@@ -20,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <first_editor relative-caret-position="750">
+                <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -443,12 +443,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489006140755</updated>
-      <workItem from="1489006146081" duration="1474000" />
+      <workItem from="1489006146081" duration="1807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1474000" />
+    <option name="totallyTimeSpent" value="1807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="682" y="23" width="1878" height="1413" extended-state="0" />
@@ -498,8 +498,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <first_editor relative-caret-position="750">
+            <caret line="50" column="57" lean-forward="false" selection-start-line="50" selection-start-column="57" selection-end-line="50" selection-end-column="57" />
             <folding />
           </first_editor>
           <second_editor />
