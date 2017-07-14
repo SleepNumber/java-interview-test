@@ -7,19 +7,19 @@ Java problem to solve before interviews.
 - Clone this repository.
 - Get IntelliJ community edition from [here](https://www.jetbrains.com/idea/download/)
 - Start IntelliJ, choose "Import Project":
-![screen 1](http://i.imgur.com/Llah7Ss.png "screen 1")
+<a href="http://i.imgur.com/Llah7Ss.png"><img src="http://i.imgur.com/Llah7Ss.png" width="48"></a>
 - Select the `direct-reports` folder:
-![screen 2](http://i.imgur.com/fOI6WHO.png "screen 2")
+<a href="http://i.imgur.com/fOI6WHO.png"><img src="http://i.imgur.com/fOI6WHO.png" width="48"></a>
 - Choose "Import project from external model", and "Maven":
-![screen 3](http://i.imgur.com/fHx1Oo9.png "screen 3")
+<a href="http://i.imgur.com/fHx1Oo9.png"><img src="http://i.imgur.com/fHx1Oo9.png" width="48"></a>
 - Leave everything and click "Next" on the next screen:
-![screen 4](http://i.imgur.com/nqrvBtY.png "screen 4")
+<a href="http://i.imgur.com/nqrvBtY.png"><img src="http://i.imgur.com/nqrvBtY.png" width="48"></a>
 - Leave everything and click "Next" on the next screen:
-![screen 5](http://i.imgur.com/0s2U2sM.png "screen 5")
+<a href="http://i.imgur.com/0s2U2sM.png"><img src="http://i.imgur.com/0s2U2sM.png" width="48"></a>
 - Make sure to choose Java 8 (or add it):
-![screen 6](http://i.imgur.com/5aLmYO8.png "screen 6")
+<a href="http://i.imgur.com/5aLmYO8.png"><img src="http://i.imgur.com/5aLmYO8.png" width="48"></a>
 - Click "Finish" on the last screen:
-![screen 7](http://i.imgur.com/0vPbpuB.png "screen 7")
+<a href="http://i.imgur.com/0vPbpuB.png"><img src="http://i.imgur.com/0vPbpuB.png" width="48"></a>
 
 ### Any Other IDE
 
