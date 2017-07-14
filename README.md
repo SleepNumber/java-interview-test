@@ -4,15 +4,15 @@ Java problem to solve before interviews.
 ## Setup
 ### IntelliJ
 
-# Clone this repository.
-# Get IntelliJ community edition from [here](https://www.jetbrains.com/idea/download/)
-# <a href="http://i.imgur.com/Llah7Ss.png"><img src="http://i.imgur.com/Llah7Ss.png" width="48"></a> Start IntelliJ, choose "Import Project"
-# <a href="http://i.imgur.com/fOI6WHO.png"><img src="http://i.imgur.com/fOI6WHO.png" width="48"></a> Select the `direct-reports` folder
-# <a href="http://i.imgur.com/fHx1Oo9.png"><img src="http://i.imgur.com/fHx1Oo9.png" width="48"></a> Choose "Import project from external model", and "Maven"
-# <a href="http://i.imgur.com/nqrvBtY.png"><img src="http://i.imgur.com/nqrvBtY.png" width="48"></a> Leave everything and click "Next" on the next screen
-# <a href="http://i.imgur.com/0s2U2sM.png"><img src="http://i.imgur.com/0s2U2sM.png" width="48"></a> Leave everything and click "Next" on the next screen
-# <a href="http://i.imgur.com/5aLmYO8.png"><img src="http://i.imgur.com/5aLmYO8.png" width="48"></a> Make sure to choose Java 8 (or add it)
-# <a href="http://i.imgur.com/0vPbpuB.png"><img src="http://i.imgur.com/0vPbpuB.png" width="48"></a> Click "Finish" on the last screen:
+1. Clone this repository.
+1. Get IntelliJ community edition from [here](https://www.jetbrains.com/idea/download/)
+1. <a href="http://i.imgur.com/Llah7Ss.png"><img src="http://i.imgur.com/Llah7Ss.png" width="48"></a> Start IntelliJ, choose "Import Project"
+1. <a href="http://i.imgur.com/fOI6WHO.png"><img src="http://i.imgur.com/fOI6WHO.png" width="48"></a> Select the `direct-reports` folder
+1. <a href="http://i.imgur.com/fHx1Oo9.png"><img src="http://i.imgur.com/fHx1Oo9.png" width="48"></a> Choose "Import project from external model", and "Maven"
+1. <a href="http://i.imgur.com/nqrvBtY.png"><img src="http://i.imgur.com/nqrvBtY.png" width="48"></a> Leave everything and click "Next" on the next screen
+1. <a href="http://i.imgur.com/0s2U2sM.png"><img src="http://i.imgur.com/0s2U2sM.png" width="48"></a> Leave everything and click "Next" on the next screen
+1. <a href="http://i.imgur.com/5aLmYO8.png"><img src="http://i.imgur.com/5aLmYO8.png" width="48"></a> Make sure to choose Java 8 (or add it)
+1. <a href="http://i.imgur.com/0vPbpuB.png"><img src="http://i.imgur.com/0vPbpuB.png" width="48"></a> Click "Finish" on the last screen:
 
 
 ### Any Other IDE
